@@ -10,6 +10,10 @@
 - ⚡ Fun fact: I enjoy producing and performing roadhouse electronica funk jazz hard rock with a touch of "[wtf was that?][sam]" and "did you catch that break?" thrown in for odd times and [places][odd].
 - 🎱 Answer: That which was asked about was written and recorded in a weekend hotel stay for my Euterpe (AKA DeZinerly) as we parted beyond a day for the first time.
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 [![DeCentN2Madness's github stats](https://github-readme-stats.vercel.app/api?username=DeCentN2Madness&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/DeCentN2Madness)
 
 [Video2Anim]: https://github.com/DeCentN2Madness/Video2Anim
