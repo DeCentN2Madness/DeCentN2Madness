@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I enjoy producing and performing roadhouse electronica funk jazz hard rock with a touch of "[wtf was that?][sam]" and "did you catch that break?" thrown in for odd times and [places][odd].
 - 🎱 Answer: That which was asked about was written and recorded in a weekend hotel stay for my Euterpe (AKA DeZinerly) as we parted beyond a day for the first time.
 
-# 🔧 A Few of My Favorite Things
+### 🔧 A Few of My Favorite Things
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +43,7 @@
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
