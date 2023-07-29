@@ -58,6 +58,7 @@
 [odd]: https://twitter.com/DeCentN2Madness
 [dz]: https://twitter.com/DeZinerly
 
+<a href="https://app.daily.dev/DeCentN2Madness"><img src="https://api.daily.dev/devcards/c9d1959424954f8ca0681eff15eebd7c.png?r=ibl" width="400" alt="Jeff Hales's Dev Card"/></a>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=DeCentN2Madness&icon=0&color=4)](https://visitcount.itsvg.in)
