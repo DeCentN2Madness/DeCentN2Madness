@@ -9,6 +9,58 @@
 - 📫 How to reach me: **[discussions](https://github.com/DeCentN2Madness/DeCentN2Madness/discussions) are open**
 - ⚡ Fun fact: I enjoy writing, producing, and performing roadhouse electronica funk jazz hard rock with a touch of "[wtf was that?][sam]" and "did you catch that break?" thrown in for odd times and [places][odd].
 
+### 🎓 My CS50 Gradebook
+
+<!-- https://github.com/gepser/markdown-progress -->
+| Week                      | Type        | Title               | Grade                              |
+| ------------------------- | ----------- | ------------------- | ---------------------------------- |
+| **Scratch**               |             |                     |                                    |
+| 0                         | Problem Set | Scratch             | ![](https://geps.dev/progress/100) |
+| **C**                     |             |                     |                                    |
+| 1                         | Lab         | Population Growth   | ![](https://geps.dev/progress/100) |
+| 1                         | Problem Set | Hello               | ![](https://geps.dev/progress/100) |
+| 1                         | Problem Set | Mario (less)        | ![](https://geps.dev/progress/100) |
+| 1                         | Problem Set | Mario (more)        | ![](https://geps.dev/progress/100) |
+| 1                         | Problem Set | Cash (less)         | ![](https://geps.dev/progress/100) |
+| 1                         | Problem Set | Credit (more)       | ![](https://geps.dev/progress/100) |
+| **Arrays**                |             |                     |                                    |
+| 2                         | Lab         | Scrabble            | ![](https://geps.dev/progress/100) |
+| 2                         | Problem Set | Readability         | ![](https://geps.dev/progress/100) |
+| 2                         | Problem Set | Bulbs (less)        | ![](https://geps.dev/progress/100) |
+| 2                         | Problem Set | Caesar (less)       | ![](https://geps.dev/progress/100) |
+| 2                         | Problem Set | Substitution (more) | ![](https://geps.dev/progress/100) |
+| 2                         | Problem Set | Wordle50 (more)     | ![](https://geps.dev/progress/100) |
+| **Algorithms**            |             |                     |                                    |
+| 3                         | Lab         | Sort                | ![](https://geps.dev/progress/100) |
+| 3                         | Problem Set | Plurality           | ![](https://geps.dev/progress/100) |
+| 3                         | Problem Set | Runoff (less)       | ![](https://geps.dev/progress/100) |
+| 3                         | Problem Set | Tideman (more)      | ![](https://geps.dev/progress/100) |
+| **Memory**                |             |                     |                                    |
+| 4                         | Lab         | Smiley              | ![](https://geps.dev/progress/100) |
+| 4                         | Lab         | Volume              | ![](https://geps.dev/progress/100) |
+| 4                         | Problem Set | Filter (more)       | ![](https://geps.dev/progress/100) |
+| 4                         | Problem Set | Reverse             | ![](https://geps.dev/progress/100) |
+| **Data Structures**       |             |                     |                                    |
+| 5                         | Lab         | Inheritance         | ![](https://geps.dev/progress/100) |
+| 5                         | Problem Set | Speller             | ![](https://geps.dev/progress/100) |
+| **Python**                |             |                     |                                    |
+| 6                         | Lab         | World Cup           | ![](https://geps.dev/progress/100) |
+| 6                         | Problem Set | Hello               | ![](https://geps.dev/progress/100) |
+| 6                         | Problem Set | Mario (more)        | ![](https://geps.dev/progress/100) |
+| 6                         | Problem Set | Credit              | ![](https://geps.dev/progress/100) |
+| 6                         | Problem Set | Readability         | ![](https://geps.dev/progress/100) |
+| 6                         | Problem Set | DNA                 | ![](https://geps.dev/progress/100) |
+| **SQL**                   |             |                     |                                    |
+| 7                         | Lab         | Songs               | ![](https://geps.dev/progress/100) |
+| 7                         | Problem Set | Movies              | ![](https://geps.dev/progress/100) |
+| 7                         | Problem Set | Fiftyville          | ![](https://geps.dev/progress/100) |
+| **HTML, CSS, JavaScript** |             |                     |                                    |
+| 8                         | Lab         | Trivia              | ![](https://geps.dev/progress/100) |
+| 8                         | Problem Set | Homepage            | upcoming                           |
+| **Flask**                 |             |                     |                                    |
+| 9                         | Problem Set | Birthdays           | upcoming                           |
+| 9                         | Problem Set | Finance             | upcoming                           |
+
 ### 🔧 A Few of My Favorite Things
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,8 +96,5 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-[Video2Anim]: https://github.com/DeCentN2Madness/Video2Anim
-[ea]: https://education.emurgo.io/
-[cardano]: https://cardanofoundation.org/
 [sam]: https://soundcloud.com/decentn2madness/sweet-dreams-euterpe "Sweet Dreams, Euterpe"
 [odd]: https://twitter.com/DeCentN2Madness
