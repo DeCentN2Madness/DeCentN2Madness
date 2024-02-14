@@ -94,7 +94,7 @@
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 [sam]: https://soundcloud.com/decentn2madness/sweet-dreams-euterpe "Sweet Dreams, Euterpe"
 [odd]: https://twitter.com/DeCentN2Madness
