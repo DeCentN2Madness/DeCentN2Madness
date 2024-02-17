@@ -1,7 +1,3 @@
-<p align="center" width="100%">
-  <img src="https://media2.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif">
-</p>
-
 ### Hi there 👋
 
 - 🌱 I’m currently taking Harvard's CS50 to fill gaps.
@@ -96,5 +92,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
+<p align="center" width="100%">
+  <img src="https://media2.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif">
+</p>
+
 [sam]: https://soundcloud.com/decentn2madness/sweet-dreams-euterpe "Sweet Dreams, Euterpe"
-[odd]: https://twitter.com/DeCentN2Madness
+[odd]: https://pool.adaberrypi.com/
