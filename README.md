@@ -56,7 +56,7 @@
 | 7                         | Problem Set | Fiftyville          | ![](https://geps.dev/progress/100) |
 | **HTML, CSS, JavaScript** |             |                     |                                    |
 | 8                         | Lab         | Trivia              | ![](https://geps.dev/progress/100) |
-| 8                         | Problem Set | Homepage            | upcoming                           |
+| 8                         | Problem Set | Homepage            | ![](https://geps.dev/progress/100) |
 | **Flask**                 |             |                     |                                    |
 | 9                         | Problem Set | Birthdays           | upcoming                           |
 | 9                         | Problem Set | Finance             | upcoming                           |
