@@ -7,6 +7,8 @@
 
 ### 🎓 My CS50 Gradebook
 
+<div align="center">
+
 <!-- https://github.com/gepser/markdown-progress -->
 | Week                      | Type        | Title               | Grade                              |
 | ------------------------- | ----------- | ------------------- | ---------------------------------- |
@@ -57,6 +59,8 @@
 | 9                         | Problem Set | Birthdays           | upcoming                           |
 | 9                         | Problem Set | Finance             | upcoming                           |
 
+</div>
+
 ### 🔧 A Few of My Favorite Things
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,13 +92,13 @@
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 <p align="center" width="100%">
   <img src="https://media2.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif">
 </p>
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=DeCentN2Madness&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 [sam]: https://soundcloud.com/decentn2madness/sweet-dreams-euterpe "Sweet Dreams, Euterpe"
 [odd]: https://pool.adaberrypi.com/
