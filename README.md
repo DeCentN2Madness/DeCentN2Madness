@@ -56,7 +56,7 @@
 | 8                         | Lab         | Trivia              | ![](https://geps.dev/progress/100) |
 | 8                         | Problem Set | Homepage            | ![](https://geps.dev/progress/100) |
 | **Flask**                 |             |                     |                                    |
-| 9                         | Problem Set | Birthdays           | upcoming                           |
+| 9                         | Problem Set | Birthdays           | in progress                        |
 | 9                         | Problem Set | Finance             | upcoming                           |
 
 </div>
